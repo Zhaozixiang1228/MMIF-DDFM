@@ -62,7 +62,7 @@ Then, the fused results will be saved in the ``'./output/recon/'`` folder.
 
 Additionally,
 
-- **[Random seed]:** For the randomly generated seed settings, we adopt the settings [seed = 3407](https://arxiv.org/abs/2109.08203) (purely for fun, you can change it arbitrarily to obtain different sampling results).
+- **[Random seed]:** For the randomly generated seed settings, we adopt the settings [seed = 3407](https://arxiv.org/abs/2109.08203) 😆😆😆(purely for fun, you can change it arbitrarily to obtain different sampling results).
 - **[Sampling speed]:** Regarding the sampling speed, we use ``timestep_respacing: 100`` in the ``configs`` file (with a maximum setting of 1000). A larger ``timestep_respacing`` will result in better generation outcomes, but will take more time to sample.
 - **[Step-by-step sampling results]:** If you want to save the sampling results of each step, please set ``record=True`` in ``sample.py``. The step-by-step sampling results will be saved in the ``'./output/progress/'`` folder.
 
