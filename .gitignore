@@ -1,0 +1,8 @@
+# Pre-trained Checkpoint
+models/*
+
+# generated fused image
+output/*
+
+# cache file
+*/__pycache__/
