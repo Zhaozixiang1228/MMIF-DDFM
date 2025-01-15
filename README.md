@@ -96,6 +96,10 @@ Medical Image Fusion
 
 <img src="image//Quantitative_MIF.png" width="60%" align=center />
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Zhaozixiang1228/MMIF-DDFM&type=Date)](https://star-history.com/#Zhaozixiang1228/MMIF-DDFM&Date)
+
 ## 📖 Related Work
 
 - Zixiang Zhao, Haowen Bai, Jiangshe Zhang, Yulun Zhang, Kai Zhang, Shuang Xu, Dongdong Chen, Radu Timofte, Luc Van Gool. *Equivariant Multi-Modality Image Fusion.* **CVPR 2024**, https://arxiv.org/abs/2305.11443
