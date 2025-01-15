@@ -101,7 +101,7 @@ Medical Image Fusion
 [![Star History Chart](https://api.star-history.com/svg?repos=Zhaozixiang1228/MMIF-DDFM&type=Date)](https://star-history.com/#Zhaozixiang1228/MMIF-DDFM&Date)
 
 ## 📖 Related Work
-
+- Zixiang Zhao, Lilun Deng, Haowen Bai, Yukun Cui, Zhipeng Zhang, Yulun Zhang, Haotong Qin, Dongdong Chen, Jiangshe Zhang, Peng Wang, Luc Van Gool. *Image Fusion via Vision-Language Model.* **ICML 2024**, https://arxiv.org/abs/2402.02235.
 - Zixiang Zhao, Haowen Bai, Jiangshe Zhang, Yulun Zhang, Kai Zhang, Shuang Xu, Dongdong Chen, Radu Timofte, Luc Van Gool. *Equivariant Multi-Modality Image Fusion.* **CVPR 2024**, https://arxiv.org/abs/2305.11443
 - Zixiang Zhao, Haowen Bai, Jiangshe Zhang, Yulun Zhang, Shuang Xu, Zudi Lin, Radu Timofte, Luc Van Gool.
   *CDDFuse: Correlation-Driven Dual-Branch Feature Decomposition for Multi-Modality Image Fusion.* **CVPR 2023**, https://arxiv.org/abs/2211.14461
