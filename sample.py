@@ -100,5 +100,5 @@ if __name__ == '__main__':
         sample=cv2.cvtColor(sample,cv2.COLOR_RGB2YCrCb)[:,:,0]
         sample=(sample-np.min(sample))/(np.max(sample)-np.min(sample))
         sample=((sample)*255)
-        imsave(os.path.join(os.path.join(out_path, 'recon'), "{}.png".format(img_name.split(".")[0])),sample)
+        cv2.imwrite(os.path.join(os.path.join(out_path, 'recon'), "{}.png".format(img_name.split(".")[0])),sample)
         i = i+1
